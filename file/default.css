@@ -118,3 +118,7 @@ a {
     margin: 10px auto;
   }
 }
+img, video {
+  max-width: 100%;
+  height: auto;
+}
